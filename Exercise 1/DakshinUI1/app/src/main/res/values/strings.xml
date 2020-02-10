@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dakshin UI 1</string>
+    <string-array name="married">
+        <item>Married</item>
+        <item>Not married</item>
+    </string-array>
+</resources>
